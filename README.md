@@ -7,4 +7,4 @@ In addition, I work as a Short Term Consultant at the Development Impact Evaluat
 
 Here, you'll find my main coding projects, as well as some forks from repos I considered `cool`. Feel free to [contact me](mailto:a20141676@pucp.edu.pe) if you've any question.
 
-Also, You can find some random stuff [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
+Also, you can find some random stuff [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
