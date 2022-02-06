@@ -15,4 +15,4 @@ In addition, I work as a Short Term Consultant at the [Development Impact Evalua
 Here are my main coding projects, as well as some forks from repos I considered `cool`. Feel free to contact me by [email](mailto:a20141676@pucp.edu.pe). I'm not on social media
 
 ---
-Find some random stuff [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! If you are interested into story-driven JRPGs, you have to check [this one](https://christianluisvazquez.wordpress.com/portfolio/xenogears-psychoanalytic-theory-and-jacques-lacans-mirror-stage-concept/).
+Find some random stuff [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! If you are interested into story-driven JRPGs, you must check [this one](https://christianluisvazquez.wordpress.com/portfolio/xenogears-psychoanalytic-theory-and-jacques-lacans-mirror-stage-concept/).
