@@ -10,7 +10,7 @@
 
 Hi! I'm a Research Consultant at Columbia University for professors [Michael Best](https://econ.columbia.edu/econpeople/michael-best/) (Columbia University), [Jonas Hjort](https://sites.google.com/site/jonashjort/) (University College London) and [Gaston Pierri](https://gastonpierri.com/) (IADB), in charge of leading their projects in Peru.
 
-In addition, I work as a STT Consultant for the World Bank at the [DE JURE program from the DIME unit](https://www.worldbank.org/en/research/dime/brief/dime-governance-program) under the direct supervision of PhD. [Daniel Chen](https://blogs.worldbank.org/team/daniel-li-chen), Lead Principal Investigator.
+In addition, I work as a Consultant for the World Bank at the [DE JURE program from the DIME unit](https://www.worldbank.org/en/research/dime/brief/dime-governance-program) under the direct supervision of PhD. [Daniel Chen](https://blogs.worldbank.org/team/daniel-li-chen), Lead Principal Investigator.
 
 Occasionally, I provide support to professors [Kristian Lopez-Vargas](https://kmlv.github.io/) (UCSC) and [Louis Putterman](https://www.brown.edu/academics/population-studies/people/person/louis-putterman) (Brown University).
 
