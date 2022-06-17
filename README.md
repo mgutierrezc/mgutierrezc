@@ -17,4 +17,4 @@ Occasionally, I provide support to professors [Kristian Lopez-Vargas](https://km
 Here are my main coding projects, as well as some forks from repos I considered `cool`. Feel free to contact me by [email](mailto:a20141676@pucp.edu.pe). I'm not on social media
 
 ---
-Find some random stuff [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! If you are interested into story-driven JRPGs, you must check [Xenogears](https://christianluisvazquez.wordpress.com/portfolio/xenogears-psychoanalytic-theory-and-jacques-lacans-mirror-stage-concept/) and [Drakengard](https://benjmulholland.com/drakengard-review/).
+Find some random stuff [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! If you are interested into story-driven JRPGs, you must check [Xenogears](https://christianluisvazquez.wordpress.com/portfolio/xenogears-psychoanalytic-theory-and-jacques-lacans-mirror-stage-concept/), [Drakengard](https://benjmulholland.com/drakengard-review/) and the [Nier](https://www.gamespot.com/reviews/nier-replicant-review-carrying-the-weight-of-the-world/1900-6417666/) Saga.
