@@ -8,9 +8,9 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Hi! I'm a Research Consultant at Columbia University for professors [Michael Best](https://econ.columbia.edu/econpeople/michael-best/) (Columbia University), [Jonas Hjort](https://sites.google.com/site/jonashjort/) (University College London) and [Gaston Pierri](https://gastonpierri.com/) (IADB), in charge of leading their projects in Peru.
+Hi! I'm a Pre-Doctoral Fellow at Columbia University (Department of Economics) for professors [Michael Best](https://econ.columbia.edu/econpeople/michael-best/) (Columbia University) and [Jonas Hjort](https://sites.google.com/site/jonashjort/) (University College London), in charge of leading their projects in Peru. I also work with [Noémie Pinardon-Touati](https://npinardontouati.github.io/) on a project related to corporate responsibility in India.
 
-Occasionally, I provide support to professors [Kristian Lopez-Vargas](https://kmlv.github.io/) (UCSC) and [Louis Putterman](https://www.brown.edu/academics/population-studies/people/person/louis-putterman) (Brown University).
+Previously, I've worked for the Development Impact Evaluation Unit at the World Bank for professor/Lead PI [Daniel L. Chen](https://users.nber.org/~dlchen/), and as research assistant for professors [Kristian Lopez-Vargas](https://kmlv.github.io/) (UCSC) and [Louis Putterman](https://www.brown.edu/academics/population-studies/people/person/louis-putterman) (Brown University).
 
 Here are my main coding projects, as well as some forks from repos I considered `cool`. Feel free to contact me by [email](mailto:a20141676@pucp.edu.pe). I'm not on social media
 
