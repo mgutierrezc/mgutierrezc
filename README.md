@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Hi! I'm a Ph.D. student in Data Science at the University of Virginia. My interests are natural language processing, language-to-vision, and computer vision.
+Hi! I'm a Ph.D. student in Data Science at the University of Virginia. My interests are natural language processing and computer vision.
 
 Previously, I've been a Pre-Doctoral Fellow at Columbia University (Department of Economics) for professors [Michael Best](https://econ.columbia.edu/econpeople/michael-best/) (Columbia University), [Jonas Hjort](https://sites.google.com/site/jonashjort/) (University College London) and [Noémie Pinardon-Touati](https://npinardontouati.github.io/), exploring the applications of natural language processing to development economics and applied macroeconomics.
 
