@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Hi! I'm a Ph.D. student in Data Science at the University of Virginia advised by [Tom Hartvigsen](https://www.tomhartvigsen.com). I work on Benchmarking and Editing/Repairing Multimodal-Language Models, particularly 
+Hi! I'm a Ph.D. student in Data Science at the University of Virginia advised by [Tom Hartvigsen](https://www.tomhartvigsen.com). I work on Benchmarking and Editing/Repairing Multimodal-Language Models. Particularly 
 
 - How to improve the external validity of Language Model Benchmarks ([NeurIPS'26](https://neurips.cc/virtual/2026/loc/paris/poster/139753))
 - Making VLMs more editable without affecting their visual grounding (In Progress)
