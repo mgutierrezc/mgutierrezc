@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Hi! I'm a Ph.D. student in Data Science at the University of Virginia advised by [Tom Hartvigsen](https://www.tomhartvigsen.com). I work on Benchmarking and Editing/Repairing Multimodal-Language Models. Checkout my work [here](https://mgutierrezc.github.io)
+Hi! I'm a Ph.D. student in Data Science at the University of Virginia advised by [Tom Hartvigsen](https://www.tomhartvigsen.com). I work on Benchmarking and Editing/Repairing Multimodal-Language Models. Check out my work [here](https://mgutierrezc.github.io)
 
 Previously, I've been a Pre-Doctoral Fellow at Columbia University (Department of Economics) for professors [Michael Best](https://econ.columbia.edu/econpeople/michael-best/) (Columbia University), [Jonas Hjort](https://sites.google.com/site/jonashjort/) (University College London) and [Noémie Pinardon-Touati](https://npinardontouati.github.io/), exploring the applications of natural language processing to development economics and macroeconomics.
 
